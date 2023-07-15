@@ -1,5 +1,5 @@
 # Other
 
-Very small and/or non hardware related projects and files.
+Smaller projects without separate page on my website
 
 Projects page: [https://rocket-scientist.me/other.html](https://rocket-scientist.me/other.html)
